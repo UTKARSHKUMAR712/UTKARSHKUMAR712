@@ -3,7 +3,7 @@
 ![Profile Banner](https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000)
 
 Welcome to my New GitHub profile! I'm a passionate developer with expertise in web and desktop application development.
-My old one is https://github.com/utkarshshanu712
+
 
 
 ## 🛠️ Skills
